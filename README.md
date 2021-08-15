@@ -1,4 +1,4 @@
-# Anime_GAN
+# Anime Face Generation
 <p>Generating anime faces by using deep convolutional generative adversial network(DCGAN)</p>
 
 ----
